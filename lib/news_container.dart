@@ -8,7 +8,7 @@ class NewsContainer extends StatelessWidget {
       width: double.infinity,
       padding: EdgeInsets.all(16.0),
       decoration: BoxDecoration(
-        border: Border.all(color: Colors.grey),
+        border: Border.all(color: Color.fromARGB(255, 176, 176, 176)),
         borderRadius: BorderRadius.circular(8.0),
       ),
       child: Container(
